@@ -1,0 +1,27 @@
+
+pack_th.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+gui_font_th
+  rotate: false
+  xy: 0, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+interface
+  rotate: false
+  xy: 0, 512
+  size: 1280, 1024
+  orig: 1280, 1024
+  offset: 0, 0
+  index: -1
+menu_gui
+  rotate: false
+  xy: 1280, 768
+  size: 768, 768
+  orig: 768, 768
+  offset: 0, 0
+  index: -1

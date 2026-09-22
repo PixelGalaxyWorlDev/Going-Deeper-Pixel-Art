@@ -1,0 +1,90 @@
+
+pack_tr.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMap, Linear
+repeat: none
+creatures
+  rotate: false
+  xy: 2, 68
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 1798, 1758
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+game_font_tr
+  rotate: false
+  xy: 2, 1352
+  size: 1024, 512
+  orig: 1024, 512
+  offset: 0, 0
+  index: -1
+gear
+  rotate: false
+  xy: 1798, 1800
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+items
+  rotate: false
+  xy: 2, 582
+  size: 768, 768
+  orig: 768, 768
+  offset: 0, 0
+  index: -1
+levelup
+  rotate: false
+  xy: 1864, 1832
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sleep
+  rotate: false
+  xy: 516, 516
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+static
+  rotate: false
+  xy: 1028, 1096
+  size: 768, 768
+  orig: 768, 768
+  offset: 0, 0
+  index: -1
+stone_part
+  rotate: false
+  xy: 1286, 1030
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+units
+  rotate: false
+  xy: 772, 582
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+wood_part
+  rotate: false
+  xy: 772, 1286
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

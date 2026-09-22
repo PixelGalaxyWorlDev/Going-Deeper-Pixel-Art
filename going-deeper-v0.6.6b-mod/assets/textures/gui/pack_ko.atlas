@@ -1,0 +1,27 @@
+
+pack_ko.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+gui_font_ko
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+interface
+  rotate: false
+  xy: 0, 1024
+  size: 1280, 1024
+  orig: 1280, 1024
+  offset: 0, 0
+  index: -1
+menu_gui
+  rotate: false
+  xy: 1280, 1280
+  size: 768, 768
+  orig: 768, 768
+  offset: 0, 0
+  index: -1
